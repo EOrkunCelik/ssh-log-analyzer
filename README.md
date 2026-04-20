@@ -142,6 +142,5 @@ ssh-log-analyzer/
 
 ## Author
 
-Ercan Orkun Celik — Computer Engineering Student, University of Duisburg-Essen  
-Coursework: Security in Communication Networks, Cryptography  
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
+Ercan Orkun Celik — Computer Engineering Student, University of Duisburg-Essen   
+[GitHub](https://github.com/EOrkunCelik)
