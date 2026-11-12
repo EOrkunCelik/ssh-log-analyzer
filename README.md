@@ -42,7 +42,7 @@ Analyzes auth logs using Isolation Forest (anomaly detection) and Logistic Regre
 ## Quick Start
 
 ```bash
-git clone https://github.com/your-username/ssh-log-analyzer.git
+git clone https://github.com/EOrkunCelik/ssh-log-analyzer.git
 cd ssh-log-analyzer
 pip install -r requirements.txt
 
