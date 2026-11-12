@@ -126,7 +126,6 @@ curl http://localhost:8000/stats
 ```
 ssh-log-analyzer/
 ├── main.py              # CLI entry point
-├── main_original.py     # Original basic analyzer
 ├── generate_logs.py     # Realistic log generator (30 days)
 ├── requirements.txt
 ├── auth.log             # Sample log (git-ignored)
